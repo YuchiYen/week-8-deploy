@@ -11,7 +11,7 @@ export default function NavBar() {
                 <Link to="/github/search">Github Search</Link>
             </li>
             <li>
-                <Link to="/github/users/jimmynono">James's Github!!</Link>
+                <Link to="/github/users/jimmynono">James's Github??</Link>
             </li>
             <li>
                 <Link to="/github/users/rainycitycoder">Chris's Github!!</Link>
